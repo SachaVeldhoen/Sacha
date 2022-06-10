@@ -13,5 +13,5 @@
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.sql`, `.svg`, `.hdr`, `.scss`, `.html`
 - 🌍 I'm mostly active within the **VueJS Community**
 - 💬 Ping me about **vuejs**, **branding**, **laravel**, **webdevelopment**, **webshops**, **SEO optimalisation**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- 📫 Reach me: sachaveldhoen12@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of Apple products
