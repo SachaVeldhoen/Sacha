@@ -14,4 +14,4 @@
 - 🌍 I'm mostly active within the **VueJS Community**
 - 💬 Ping me about **vuejs**, **branding**, **laravel**, **webdevelopment**, **webshops**, **SEO optimalisation**
 - 📫 Reach me: sachaveldhoen12@gmail.com
-- ⚡️ Fun fact: I'm a huge fan of Breaking Bad
+- ⚡️ Currently learning: Java
