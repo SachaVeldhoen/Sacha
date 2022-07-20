@@ -14,4 +14,4 @@
 - 🌍 I'm mostly active within the **VueJS Community**
 - 💬 Ping me about **vuejs**, **branding**, **laravel**, **webdevelopment**, **webshops**, **SEO optimalisation**
 - 📫 Reach me: sachaveldhoen12@gmail.com
-- ⚡️ Currently learning: Java
+- ⚡️ Currently learning: Java & Livewire
