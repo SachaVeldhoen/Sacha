@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.sql`, `.svg`, `.hdr`, `.scss`, `.html`
+- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.sql`, `.hdr`, `.scss`, `.blade.php`
 - 🌍 I'm mostly active within the **VueJS Community**
 - 💬 Ping me about **vuejs**, **branding**, **laravel**, **webdevelopment**, **webshops**, **SEO optimalisation**
 - 📫 Reach me: sachaveldhoen12@gmail.com
