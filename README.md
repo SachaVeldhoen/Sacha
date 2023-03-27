@@ -1,6 +1,6 @@
 ### Hi there 🙋🏼‍♂️
 
-#### I'm a Full-Stack Developer working in Apeldoorn, the Netherlands
+#### I'm a Front-end Developer working in Apeldoorn, the Netherlands
 
 ##### NOW
 
