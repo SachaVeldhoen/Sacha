@@ -15,4 +15,4 @@
 - 🌍 I'm mostly active within the **Laravel Community**
 - 💬 Ping me about **vuejs**, **branding**, **laravel**, **webdevelopment**, **webshops**, **SEO optimalisation**
 - 📫 Reach me: sachaveldhoen12@gmail.com
-- ⚡️ Currently learning: Webdesign & Livewire
+- ⚡️ Currently learning: Webdesign & PHP improvement
