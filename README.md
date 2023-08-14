@@ -6,8 +6,7 @@
 
 - 💻 I'm flexible and would love to be considered for any open position…
 - 🏢 Take a look at https://werkdeal.com
-- 🧑🏼‍💻 19 years old
-- 🥸 website & cv: https://sachaveldhoen.nl
+- 🧑🏼‍💻 20 years old
 
 ##### BIO
 
