@@ -1,12 +1,12 @@
 ### Hi there 🙋🏼‍♂️
 
-#### I'm a Front-end Developer working in Apeldoorn, the Netherlands
+#### I'm a Front-end Developer working from home in the Netherlands
 
 ##### NOW
 
 - 💻 I'm flexible and would love to be considered for any open position…
 - 🏢 Take a look at https://werkdeal.com
-- 🧑🏼‍💻 20 years old
+- 🧑🏼‍💻 21 years old
 
 ##### BIO
 
